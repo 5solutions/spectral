@@ -11,7 +11,7 @@ owner: Your Name # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: mail@5so.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.5so.de" # the base hostname & protocol for your site
+url: "https://5solutions.github.io/5so.de/" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/5solutions
