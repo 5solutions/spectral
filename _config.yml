@@ -4,12 +4,14 @@
 # Site settings
 title: 5solutions
 description: |
-  It is better to solve one problem five different ways, 
-  than to solve five problems one way.
-  ▶ George Polya
+  It is better to solve 
+  one problem five different ways, 
+  than to solve 
+  five problems one way.
+  George Polya
   
-  There is always more than one solution
-  ▶ 5So
+  There is always more than one
+
 owner: 5solutions # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: mail@5so.de
