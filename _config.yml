@@ -2,12 +2,11 @@
 #
 
 # Site settings
-title: Spectral
+title: 5solutions
 description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+  There is always more than one  
+  
+owner: 5solutions # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
 email: mail@5so.de
 baseurl: "/5so.de" # the subpath of your site, e.g. /blog
