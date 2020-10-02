@@ -1,9 +1,9 @@
 ---
 layout: page
-title: TEST
+title: About
 ---
 
-### Test
+### About
 
 This is a testpage!
 
