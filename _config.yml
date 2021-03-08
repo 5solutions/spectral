@@ -3,14 +3,12 @@
 
 # Site settings
 title: 5solutions
-titleimage: images/5solutions-transparent-logo-shadow.png
+titleimage: images/5solutions-transparent-logo-blue.png
 description: |
   It is better to solve one problem 
   five different ways,
   than to solve five problems one way.
   George Polya
-  
-  There is always more than one
 
 owner: 5solutions # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
