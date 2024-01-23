@@ -3,7 +3,7 @@ layout: page
 title: Leistungen
 ---
 
-Unsere IT-Consulting Firma steht für Kompetenz und Innovation in der digitalen Welt. Mit einem Team aus erfahrenen Spezialisten und einer beeindruckenden Palette an Zertifizierungen, bieten wir maßgeschneiderte Lösungen für eine Vielzahl von Branchen. Unser Leistungsspektrum umfasst:
+Wir stehen für Kompetenz und Innovation in der digitalen Welt. Mit einem Team aus erfahrenen Spezialisten und einer beeindruckenden Palette an Zertifizierungen, bieten wir maßgeschneiderte Lösungen für eine Vielzahl von Branchen. Unser Leistungsspektrum umfasst:
 
 ### Projektmanagement
 
